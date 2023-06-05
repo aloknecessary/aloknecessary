@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Alok, a full-stack lead cum devops engineer, robust coder and self-proclaimed designer who specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or server applications that run blazing fast.
+I’m Alok, a full-stack lead cum devops engineer, robust coder and self-proclaimed designer who specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or server applications that run blazing fast. I believe in the fact that "Making mistakes is better than faking perfections." 🙂
 
 <!-- **aloknecessary/aloknecessary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
