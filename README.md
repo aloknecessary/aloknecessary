@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Alok, a full-stack lead cum devops engineer, robust coder and self-proclaimed designer who specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or server applications that run blazing fast. I believe in the fact that "Making mistakes is better than faking perfections." 🙂
+I’m Alok, currently working as a Solution Architect, with extensive experience as a full-stack lead and DevOps engineer. I’m a skilled coder and an enthusiastic designer passionate about full-stack development. I specialize in architecting scalable solutions, transforming user-centric designs into pixel-perfect websites, and building high-performance server applications. My philosophy: "Making mistakes is better than faking perfection." 🙂
 
 <!-- **aloknecessary/aloknecessary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about (You better know it- what you are looking for :rofl:)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aloknecessary/) | [Facebook](https://www.facebook.com/aloknecessary/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The best advice I ever received was "Do not always follow an advice blindly - sometimes you will get some because they know you are better than them and they can't bear it."
+- ⚡ Fun fact: The best advice I ever received was, 'Don't follow advice blindly—sometimes it's given by those who can't accept that you're better than them.'
 
 ## 📝 Blog Posts
 [Check out my blogs](https://ideas.byteridge.com/author/alok/)
