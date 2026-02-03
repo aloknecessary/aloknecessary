@@ -64,15 +64,17 @@ I value transparency, thoughtful experimentation, and learning through execution
 ### Writing & Knowledge Sharing
 
 I occasionally write about engineering, architecture, and real-world problem solving.
-**Blog:** [https://ideas.byteridge.com/author/alok/](https://ideas.byteridge.com/author/alok/)
+**Blog:** [https://aloknecessary.github.io/blogs/](https://aloknecessary.github.io/blogs/)
 
 ---
 
 ### Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/aloknecessary/](https://www.linkedin.com/in/aloknecessary/)
+* **Docker Hub:** [https://hub.docker.com/u/aloknecessary](https://hub.docker.com/u/aloknecessary)
+* **Email:** [aloknecessary@gmail.com](mailto:aloknecessary@gmail.com)
 * **GitHub:** You’re already here
 
 ---
 
-If you are interested in **architecture discussions, system design reviews, or technical collaboration**, feel free to reach out.
+If you are interested in **architecture discussions, system design reviews, DevOps or technical collaboration**, feel free to reach out.
