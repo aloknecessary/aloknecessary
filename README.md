@@ -147,9 +147,15 @@ Cost & Performance:
 
 <div align="center">
   
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aloknecessary&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+  [![Alok's GitHub stats](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api?username=aloknecessary&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/aloknecessary)
+  
+  [![Top Langs](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/top-langs/?username=aloknecessary&count_private=true&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloknecessary&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+  
+<!-- 
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aloknecessary&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloknecessary&layout=compact&theme=github_dark&hide_border=true&langs_count=8) 
+ -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aloknecessary&theme=github-dark-blue&hide_border=true)
 
@@ -170,11 +176,12 @@ I regularly write about real-world engineering problems, architecture decisions,
 ## 🔥 Featured Projects
 
 <div align="center">
-
-[![playwright-az-cli](https://github-readme-stats.vercel.app/api/pin/?username=aloknecessary&repo=playwright-az-cli&theme=github_dark&hide_border=true)](https://github.com/aloknecessary/playwright-az-cli)
-[![sonar-dotnet-v9.0](https://github-readme-stats.vercel.app/api/pin/?username=aloknecessary&repo=sonar-dotnet-v9.0&theme=github_dark&hide_border=true)](https://github.com/aloknecessary/sonar-dotnet-v9.0)
-[![sonar-dotnet-v10.0](https://github-readme-stats.vercel.app/api/pin/?username=aloknecessary&repo=sonar-dotnet-v10.0&theme=github_dark&hide_border=true)](https://github.com/aloknecessary/sonar-dotnet-v10.0)
-[![webpack-demo](https://github-readme-stats.vercel.app/api/pin/?username=aloknecessary&repo=webpack-demo&theme=github_dark&hide_border=true)](https://github.com/aloknecessary/webpack-demo)
+  
+  [![playwright-az-cli](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/pin/?username=aloknecessary&repo=playwright-az-cli&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary/playwright-az-cli)
+  [![react-progress-stepper-ts](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/pin/?username=aloknecessary&repo=react-progress-stepper-ts&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary/react-progress-stepper-ts)
+[![sonar-dotnet-v9.0](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/pin/?username=aloknecessary&repo=sonar-dotnet-v9.0&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary/sonar-dotnet-v9.0)
+[![sonar-dotnet-v10.0](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/pin/?username=aloknecessary&repo=sonar-dotnet-v10.0&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary/sonar-dotnet-v10.0)
+[![webpack-demo](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/pin/?username=aloknecessary&repo=webpack-demo&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary/webpack-demo)
 
 </div>
 
