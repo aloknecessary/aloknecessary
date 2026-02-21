@@ -147,9 +147,9 @@ Cost & Performance:
 
 <div align="center">
   
-  [![Alok's GitHub stats](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api?username=aloknecessary&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/aloknecessary)
+  ![Alok's GitHub stats](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api?username=aloknecessary&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&cache_seconds=86400)
   
-  [![Top Langs](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/top-langs/?username=aloknecessary&count_private=true&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/aloknecessary)
+  ![Top Langs](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/top-langs/?username=aloknecessary&count_private=true&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
   
 <!-- 
