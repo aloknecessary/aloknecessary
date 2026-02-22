@@ -43,6 +43,21 @@ I'm a **Solution Architect** with **10+ years** of deep, hands-on experience acr
 
 ---
 
+## 🤖 AI-Augmented Engineering
+
+I leverage AI strategically to accelerate delivery, improve code quality, and solve complex technical challenges. My approach combines **AI-assisted development with rigorous engineering discipline**—using models like Claude, GPT-4, Gemini and Amazon Q as force multipliers while maintaining architectural control and production-grade standards.
+
+**Key AI Initiatives:**
+
+- **Test Automation at Scale**: Led AI-powered Playwright test generation that increased code coverage from 35% to 82%+ across 40+ modules
+- **Intelligent Data Visualization**: Built a production POC enabling natural language to chart generation with real-time drill-down capabilities
+- **Context-Driven Problem Solving**: Use AI in agentic and chat modes to rapidly prototype solutions, analyze codebases, and validate architectural decisions
+
+> I view AI as a **productivity accelerator and creative partner**—not a replacement for engineering judgment. Every AI-generated solution undergoes code review, testing, and refinement to meet production standards.
+
+---
+
+
 ## 💼 Professional Experience
 
 **Solution Architect** @ [Byteridge Software Pvt. Ltd.](https://www.byteridge.com)  
@@ -53,6 +68,39 @@ I'm a **Solution Architect** with **10+ years** of deep, hands-on experience acr
 - Designed modular, API-centric platforms with strong authentication, observability, and integration patterns
 - Collaborated with Microsoft on Bing and Microsoft Admin Portal platforms
 - Drove cost optimization initiatives across cloud infrastructure and container orchestration
+
+---
+
+## 🧪 AI Projects & POCs
+
+### AI-Driven Test Automation Framework
+*Playwright + Claude/GPT-4 + Amazon Q*
+
+Led a transformative test automation initiative for a client's debt collection platform, leveraging AI for context analysis and test case generation. Guided a 4–5 engineer team to deliver production-grade Playwright tests across 40+ modules.
+
+- 📈 Code coverage: **35% → 81%+**
+- ✅ **2,500+ test cases** delivered in 2 months
+- 🚀 **40+ modules** fully covered
+- ⚡ Ongoing e2e test expansion
+
+[![GitHub](https://img.shields.io/badge/GitHub-Custom_Docker_Image-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aloknecessary/playwright-az-cli)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-playwright--az--cli-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/aloknecessary/playwright-az-cli)
+
+---
+
+### Natural Language Data Visualization POC
+*React 18 + OpenAI GPT + Chart.js*
+
+Built an intelligent Higher-Order Component (HOC) that wraps any React-compatible table, enabling users to generate interactive visualizations through natural language prompts. Features PII filtering, content moderation, and drill-down analytics.
+
+- 🗣️ Natural language interface — no chart configuration knowledge required
+- 🔒 PII filtering and content moderation built-in
+- 📊 CSV/Excel data upload support
+- 🔍 Interactive multi-level drill-down
+- ✅ Democratized data analysis for non-technical users
+- 🏢 Featured on [Byteridge's innovation portal](https://byteridge.com/gen-ai-solutions/visualizer/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-4CAF50?style=flat-square)](https://solution.byteridge.com/innovation/visualizer)
 
 ---
 
@@ -147,7 +195,7 @@ Cost & Performance:
 
 <div align="center">
   
-  ![Alok's GitHub stats](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api?username=aloknecessary&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&cache_seconds=86400)
+  <!-- ![Alok's GitHub stats](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api?username=aloknecessary&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&cache_seconds=86400) -->
   
   ![Top Langs](https://github-readme-stats-aloknecessary-4439s-projects.vercel.app/api/top-langs/?username=aloknecessary&count_private=true&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
@@ -189,10 +237,13 @@ I regularly write about real-world engineering problems, architecture decisions,
 
 ## 🤝 Open To
 
-- 💼 Architecture consulting and system design reviews
-- 🎤 Speaking opportunities on cloud architecture, DevOps, and system design
-- 🤝 Technical collaborations and open-source contributions
-- 📚 Mentoring engineers on architectural thinking and best practices
+- 💼 **Architecture consulting** and system design reviews
+- 🤖 **AI integration consulting** for production systems and intelligent automation
+- 🎤 **Speaking opportunities** on cloud architecture, DevOps, and system design
+- 🤝 **Technical collaborations** and open-source contributions
+- 📚 **Mentoring engineers** on architectural thinking and best practices
+- 💡 **Advisory roles** for startups and scale-ups
+- 🧪 **POC partnerships** exploring AI/ML use cases in enterprise software
 
 ---
 
@@ -213,6 +264,10 @@ I regularly write about real-world engineering problems, architecture decisions,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aloknecessary/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:aloknecessary@gmail.com)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-Images-2496ED?style=for-the-badge&logo=docker)](https://hub.docker.com/u/aloknecessary)
+[![npm](https://img.shields.io/badge/npm-aloknecessary-purple?style=for-the-badge&logo=npm&logoColor=white&labelColor=c93525)](https://www.npmjs.com/~aloknecessary)
+<a href="https://facebook.com/aloknecessary">
+    <img src="https://img.shields.io/badge/Facebook-aloknecessary-FFEAD3?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue" alt="Facebook"/>
+  </a>
 
 </div>
 
