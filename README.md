@@ -71,39 +71,6 @@ I leverage AI strategically to accelerate delivery, improve code quality, and so
 
 ---
 
-## 🧪 AI Projects & POCs
-
-### AI-Driven Test Automation Framework
-*Playwright + Claude/GPT-4 + Amazon Q*
-
-Led a transformative test automation initiative for a client's debt collection platform, leveraging AI for context analysis and test case generation. Guided a 4–5 engineer team to deliver production-grade Playwright tests across 40+ modules.
-
-- 📈 Code coverage: **35% → 81%+**
-- ✅ **2,500+ test cases** delivered in 2 months
-- 🚀 **40+ modules** fully covered
-- ⚡ Ongoing e2e test expansion
-
-[![GitHub](https://img.shields.io/badge/GitHub-Custom_Docker_Image-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aloknecessary/playwright-az-cli)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-playwright--az--cli-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/aloknecessary/playwright-az-cli)
-
----
-
-### Natural Language Data Visualization POC
-*React 18 + OpenAI GPT + Chart.js*
-
-Built an intelligent Higher-Order Component (HOC) that wraps any React-compatible table, enabling users to generate interactive visualizations through natural language prompts. Features PII filtering, content moderation, and drill-down analytics.
-
-- 🗣️ Natural language interface — no chart configuration knowledge required
-- 🔒 PII filtering and content moderation built-in
-- 📊 CSV/Excel data upload support
-- 🔍 Interactive multi-level drill-down
-- ✅ Democratized data analysis for non-technical users
-- 🏢 Featured on [Byteridge's innovation portal](https://byteridge.com/gen-ai-solutions/visualizer/)
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-4CAF50?style=flat-square)](https://solution.byteridge.com/innovation/visualizer)
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -176,6 +143,70 @@ Cost & Performance:
   - Query tuning, indexing, and caching strategies
   - FinOps practices and visibility
 ```
+---
+
+## 🧪 AI Projects & POCs
+
+### AI-Driven Test Automation Framework
+*Playwright + Claude/GPT-4 + Amazon Q*
+
+Led a transformative test automation initiative for a client's debt collection platform, leveraging AI for context analysis and test case generation. Guided a 4–5 engineer team to deliver production-grade Playwright tests across 40+ modules.
+
+- 📈 Code coverage: **35% → 81%+**
+- ✅ **2,500+ test cases** delivered in 2 months
+- 🚀 **40+ modules** fully covered
+- ⚡ Ongoing e2e test expansion
+
+[![GitHub](https://img.shields.io/badge/GitHub-Custom_Docker_Image-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aloknecessary/playwright-az-cli)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-playwright--az--cli-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/aloknecessary/playwright-az-cli)
+
+---
+
+### Natural Language Data Visualization POC
+*React 18 + OpenAI GPT + Chart.js*
+
+Built an intelligent Higher-Order Component (HOC) that wraps any React-compatible table, enabling users to generate interactive visualizations through natural language prompts. Features PII filtering, content moderation, and drill-down analytics.
+
+- 🗣️ Natural language interface — no chart configuration knowledge required
+- 🔒 PII filtering and content moderation built-in
+- 📊 CSV/Excel data upload support
+- 🔍 Interactive multi-level drill-down
+- ✅ Democratized data analysis for non-technical users
+- 🏢 Featured on [Byteridge's innovation portal](https://byteridge.com/gen-ai-solutions/visualizer/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-4CAF50?style=flat-square)](https://solution.byteridge.com/innovation/visualizer)
+
+---
+## 🧪 AI Projects & POCs
+
+### AI-Driven Test Automation Framework
+*Playwright + Claude/GPT-4 + Amazon Q*
+
+Led a transformative test automation initiative for a client's debt collection platform, leveraging AI for context analysis and test case generation. Guided a 4–5 engineer team to deliver production-grade Playwright tests across 40+ modules.
+
+- 📈 Code coverage: **35% → 81%+**
+- ✅ **2,500+ test cases** delivered in 2 months
+- 🚀 **40+ modules** fully covered
+- ⚡ Ongoing e2e test expansion
+
+[![GitHub](https://img.shields.io/badge/GitHub-Custom_Docker_Image-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aloknecessary/playwright-az-cli)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-playwright--az--cli-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/aloknecessary/playwright-az-cli)
+
+---
+
+### Natural Language Data Visualization POC
+*React 18 + OpenAI GPT + Chart.js*
+
+Built an intelligent Higher-Order Component (HOC) that wraps any React-compatible table, enabling users to generate interactive visualizations through natural language prompts. Features PII filtering, content moderation, and drill-down analytics.
+
+- 🗣️ Natural language interface — no chart configuration knowledge required
+- 🔒 PII filtering and content moderation built-in
+- 📊 CSV/Excel data upload support
+- 🔍 Interactive multi-level drill-down
+- ✅ Democratized data analysis for non-technical users
+- 🏢 Featured on [Byteridge's innovation portal](https://byteridge.com/gen-ai-solutions/visualizer/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-4CAF50?style=flat-square)](https://solution.byteridge.com/innovation/visualizer)
 
 ---
 
