@@ -204,7 +204,7 @@ Built an intelligent Higher-Order Component (HOC) that wraps any React-compatibl
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloknecessary&layout=compact&theme=github_dark&hide_border=true&langs_count=8) 
  -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aloknecessary&theme=github-dark-blue&hide_border=true&exclude_days=Sat,Sun&mode=weekly")
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aloknecessary&theme=github-dark-blue&hide_border=true&exclude_days=Sat,Sun&mode=weekly)
 
 </div>
 
